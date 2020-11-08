@@ -1,24 +1,34 @@
 {
-  "name": "@svg-maps/cli",
-  "version": "1.0.0-beta.0",
-  "description": "CLI tools to manage SVG maps",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/VictorCazanave/svg-maps-cli.git"
-  },
-  "keywords": [
-    "map",
-    "svg",
-    "cli"
-  ],
-  "author": "Victor Cazanave <victor.cazanave@gmail.com>",
-  "license": "GPL-3.0",
-  "bugs": {
-    "url": "https://github.com/VictorCazanave/svg-maps-cli/issues"
-  },
-  "homepage": "https://github.com/VictorCazanave/svg-maps-cli#readme"
+	"name": "@svg-maps/cli",
+	"version": "1.0.0-beta.0",
+	"description": "CLI tools to manage SVG maps",
+	"main": "index.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/VictorCazanave/svg-maps-cli.git"
+	},
+	"keywords": [
+		"map",
+		"svg",
+		"cli"
+	],
+	"author": "Victor Cazanave <victor.cazanave@gmail.com>",
+	"publishConfig": {
+		"access": "public"
+	},
+	"license": "GPL-3.0",
+	"bugs": {
+		"url": "https://github.com/VictorCazanave/svg-maps-cli/issues"
+	},
+	"homepage": "https://github.com/VictorCazanave/svg-maps-cli#readme",
+	"dependencies": {
+		"commander": "^6.2.0",
+		"pkginfo": "^0.4.1",
+		"svgson": "^4.1.0",
+		"yeoman-environment": "^2.10.3",
+		"yeoman-generator": "^4.12.0"
+	}
 }
