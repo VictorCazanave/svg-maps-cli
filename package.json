@@ -1,0 +1,24 @@
+{
+  "name": "@svg-maps/cli",
+  "version": "1.0.0-beta.0",
+  "description": "CLI tools to manage SVG maps",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/VictorCazanave/svg-maps-cli.git"
+  },
+  "keywords": [
+    "map",
+    "svg",
+    "cli"
+  ],
+  "author": "Victor Cazanave <victor.cazanave@gmail.com>",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/VictorCazanave/svg-maps-cli/issues"
+  },
+  "homepage": "https://github.com/VictorCazanave/svg-maps-cli#readme"
+}
