@@ -1,7 +1,6 @@
 # SVG Maps CLI
 
 [![npm version](https://img.shields.io/npm/v/@svg-maps/cli)](https://www.npmjs.com/package/@svg-maps/cli)
-[![License](https://img.shields.io/github/license/VictorCazanave/svg-maps-cli?color=blue)](https://github.com/VictorCazanave/svg-maps-cli/blob/master/LICENSE)
 
 _CLI tool to manage [SVG maps](https://github.com/VictorCazanave/svg-maps)._
 
